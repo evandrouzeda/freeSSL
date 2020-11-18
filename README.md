@@ -26,3 +26,4 @@ This is a tutorial to get a free SSL certificate using certbot
 
  - This tutorial is ideal when you don't have access to the prompt of your host
  - If you are using a host like apache or nginx, just create a folder .well-known, on the root path of your website, and put the acme-challeng files inside.
+ - Always use the fullchain hahaha
