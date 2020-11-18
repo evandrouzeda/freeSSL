@@ -1,0 +1,20 @@
+{
+  "name": "basicserver",
+  "version": "1.0.0",
+  "description": "servidor base express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "server",
+    "express",
+    "redirect"
+  ],
+  "author": "evandrouzeda",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
