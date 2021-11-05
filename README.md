@@ -14,7 +14,9 @@ This is a tutorial to get a free SSL certificate using certbot
 
  1. Execute the command below, and follow the instructions
 
-    **sudo certbot certonly --manual**
+```
+sudo certbot certonly --manual
+```
 
  2. When you arrives on acme-challenge download this project and change the acme-challenge file name and content.
  3. Send to your host that have a public IP
